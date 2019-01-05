@@ -5,7 +5,7 @@ noFill();
 smooth();
 
 int boxSize = 10;
-int drawDistance = 30;
+int drawDistance = 15;
 int rr, gg, bb;
 
 int r[] = new int[height/boxSize*width/boxSize];
